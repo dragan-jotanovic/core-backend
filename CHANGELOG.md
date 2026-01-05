@@ -17,7 +17,7 @@
 ### Features
 
 * LCPI-0000 - Updated release-it config ([a19a871](https://github.com/dragan-jotanovic/core-backend/commit/a19a871a17dbd52c851ee91c3b3653160a7f5aa5))
-* LCPI-0000 - Updated release-it config ([4348912](https://github.com/dragan-jotanovic/core-backend/commit/43489125cecb2f3583c95c5ecf7cae92ca928c2d))
+
 ## 0.1.1 (2025-12-19)
 
 ### Features

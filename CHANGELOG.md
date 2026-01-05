@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.5](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.4...v0.1.5) (2026-01-05)
+
+### Bug Fixes
+
+* LCPI-000 -  updated changelog ([65b9c57](https://github.com/dragan-jotanovic/core-backend/commit/65b9c57d5048f4b6523d019a63ad8ae9280a423e))
+
 ## [0.1.4](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.3...v0.1.4) (2026-01-05)
 
 ### Features

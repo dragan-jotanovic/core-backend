@@ -1,0 +1,33 @@
+{
+  "hooks": {},
+  "git": {
+    "commitMessage": "Released version v${version}",
+    "commitsPath": ".",
+    "push": true,
+    "requireCommits": true,
+    "requireCommitsFail": false,
+    "tagName": "v${version}",
+  },
+  "github": {
+    "release": true,
+    "releaseName": "v${version}",
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "infile": "CHANGELOG.md",
+      "preset": {
+        "name": "conventionalcommits",
+      }
+    },
+    "@release-it/bumper": {
+      "in": {
+        "file": "VERSION",
+        "type": "text/plain",
+      },
+      "out": {
+        "file": "VERSION",
+        "type": "text/plain",
+      },
+    },
+  },
+};

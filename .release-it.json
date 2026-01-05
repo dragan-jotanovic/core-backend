@@ -1,4 +1,5 @@
 {
+  "$schema": "https://unpkg.com/release-it@19/schema/release-it.json",
   "hooks": {},
   "git": {
     "commitMessage": "Released version v${version}",
@@ -6,28 +7,28 @@
     "push": true,
     "requireCommits": true,
     "requireCommitsFail": false,
-    "tagName": "v${version}",
+    "tagName": "v${version}"
   },
   "github": {
     "release": true,
-    "releaseName": "v${version}",
+    "releaseName": "v${version}"
   },
   "plugins": {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md",
       "preset": {
-        "name": "conventionalcommits",
+        "name": "conventionalcommits"
       }
     },
     "@release-it/bumper": {
       "in": {
         "file": "VERSION",
-        "type": "text/plain",
+        "type": "text/plain"
       },
       "out": {
         "file": "VERSION",
-        "type": "text/plain",
-      },
-    },
-  },
-};
+        "type": "text/plain"
+      }
+    }
+  }
+}

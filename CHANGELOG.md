@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.2...v0.1.3) (2026-01-05)
+
+### Features
+
+* LCPI-0000 - Added nomad pack and some source file example ([bcf5b61](https://github.com/dragan-jotanovic/core-backend/commit/bcf5b6140b1bd47639c9e23d17b2e09e0de7d223))
+
 ## [0.1.2](https://github.com/dragan-jotanovic/core-backend/compare/0.1.1...v0.1.2) (2026-01-05)
 
 ### Features

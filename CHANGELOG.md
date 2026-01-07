@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.7](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.6...v0.1.7) (2026-01-07)
+
+### Features
+
+* LCP-000 - Removed default release-it config ([2a6805d](https://github.com/dragan-jotanovic/core-backend/commit/2a6805d8e7406c20d46963d8e496b1de6441a996))
+
 ## [0.1.6](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.5...v0.1.6) (2026-01-05)
 
 ### Features

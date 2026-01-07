@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.8](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.7...v0.1.8) (2026-01-07)
+
+### Bug Fixes
+
+* LCPI-000 - Removed redundant file ([52b0fc0](https://github.com/dragan-jotanovic/core-backend/commit/52b0fc054641bd23cb25542f50525c7250a6cd66))
+
 ## [0.1.7](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.6...v0.1.7) (2026-01-07)
 
 ### Features

@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.9](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.8...v0.1.9) (2026-01-08)
+
+### Features
+
+* LCPI-000 - Added scripts ([7c1b2b0](https://github.com/dragan-jotanovic/core-backend/commit/7c1b2b0df61d30ef0b4773867bd7031f6f14560f))
+
+### Bug Fixes
+
+* LCP-000 - Fix scripts permissions ([05f2f47](https://github.com/dragan-jotanovic/core-backend/commit/05f2f47c0a0af4a6078986307b67555fe59656d3))
+* LCP-000 - Fixed typo ([79c846f](https://github.com/dragan-jotanovic/core-backend/commit/79c846f32f2d7b9d28a67ea21a6013b974c66c99))
+
 ## [0.1.8](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.7...v0.1.8) (2026-01-07)
 
 ### Bug Fixes

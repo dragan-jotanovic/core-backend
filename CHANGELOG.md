@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.10](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.9...v0.1.10) (2026-01-14)
+
+### Bug Fixes
+
+* LCPI-000 - Removed redundant comment ([f70617d](https://github.com/dragan-jotanovic/core-backend/commit/f70617d97c7579a428733d8609bd59bf0eac47d1))
+
 ## [0.1.9](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.8...v0.1.9) (2026-01-08)
 
 ### Features

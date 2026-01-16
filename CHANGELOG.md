@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.3.1](https://github.com/dragan-jotanovic/core-backend/compare/v0.2.1...v0.3.1) (2026-01-16)
+
 ## [0.2.1](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.10...v0.2.1) (2026-01-16)
 
 ### Features

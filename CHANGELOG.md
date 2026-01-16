@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.1](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.10...v0.2.1) (2026-01-16)
+
+### Features
+
+* LCPI-000 - Added title to readme ([6def524](https://github.com/dragan-jotanovic/core-backend/commit/6def524a177d4e0e31ff7f041fdb5d1cdfba42f2))
+
+### Bug Fixes
+
+* LCPI-000 - Fixed changelog ([7798a85](https://github.com/dragan-jotanovic/core-backend/commit/7798a856d27e7e1557ad1ca8ea43126a8036048d))
+
 ## [0.1.10](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.9...v0.1.10) (2026-01-14)
 
 ### Bug Fixes

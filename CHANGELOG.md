@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.2](https://github.com/dragan-jotanovic/core-backend/compare/v0.3.1...v0.3.2) (2026-01-27)
+
+### Features
+
+* LCPI-123 - Added feature 1 ([9709298](https://github.com/dragan-jotanovic/core-backend/commit/97092987cb93d42b7d7f7a17a2f8c5006af19120))
+
 ## [0.3.1](https://github.com/dragan-jotanovic/core-backend/compare/v0.2.1...v0.3.1) (2026-01-16)
 
 ## [0.2.1](https://github.com/dragan-jotanovic/core-backend/compare/v0.1.10...v0.2.1) (2026-01-16)
